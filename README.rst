@@ -1,1 +1,1 @@
-Art for `Flask-WhooshAlchemy <Flask-Whooshalchemy https://github.com/gyllstromk/>`_.
+Art for `Flask-WhooshAlchemy <https://github.com/gyllstromk/>`_.
